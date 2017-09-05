@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+p {
+font-size: 12px;
+}
+
+h4, p, h3, h2, h1, ol, ul {
+padding: 0 7px;
+color: blue;
+}
+
+div.tasks {
+margin: 1em 0;
+position: relative;
+}
